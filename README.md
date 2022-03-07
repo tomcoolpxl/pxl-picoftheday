@@ -13,4 +13,4 @@ Flask app to show random PXL picture
    pip install --no-cache-dir -r ./requirements.txt
  - start webserver by running:
    python3 ./app.py
- - the web server is reachable on port 6000
+ - the web server is reachable on port 5000
